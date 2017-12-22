@@ -315,7 +315,7 @@
         </record>
         <record id="attn_VAT-OUT-00-ROW" model="account.tax.template">
             <field name="sequence">70</field>
-            <field name="description">TVA 0% Non EU</field>
+            <field name="description">TVA 0% Non EU </field>
             <field name="name">0% Non EU</field>
             <field name="refund_account_id" ref="a451054"/>
             <field name="account_id" ref="a451054"/>
